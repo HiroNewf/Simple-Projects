@@ -1,1 +1,1 @@
-Simple bot that is made to play an online version of the piano tiles game. This bot probbaly won't work for you vomputer without changing the cordinates in the code. If you are intested in makeing this for yourself you can learn hpw to here: https://www.youtube.com/watch?v=YRAIUA-Oc1Y
+Simple bot that is made to play an online version of the piano tiles game. This bot probbaly won't work for you computer without changing the cordinates in the code. If you are intested in makeing this for yourself you can learn how to here: https://www.youtube.com/watch?v=YRAIUA-Oc1Y
