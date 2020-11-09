@@ -5,10 +5,10 @@ import keyboard
 import random
 import win32api, win32con
 
-#Tile 1 Position: X:  581 Y:  400 RGB: ( 77,  80, 115)
-#Tile 2 Position: X:  682 Y:  400 RGB: (  0,   0,   0)
-#Tile 3 Position: X:  770 Y:  400 RGB: ( 79,  82, 116)
-#Tile 4 Position: X:  869 Y:  400 RGB: ( 80,  83, 116)
+#1 Position: x:  545:  400 RGB: ( 77,  80, 115)
+#2 Position: x:  652:  400 RGB: (  0,   0,   0)
+#3 Position: x:  754  400 RGB: ( 79,  82, 116)
+#4 Position: x:  844  400 RGB: ( 80,  83, 116)
 
 def click(x,y):
     win32api.SetCursorPos((x,y))
